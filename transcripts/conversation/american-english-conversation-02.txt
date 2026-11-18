@@ -1,0 +1,638 @@
+English Dialogue 02
+Language: English (US)
+Duration: 00:31:12.5
+Speakers: 2
+Machine transcription: ElevenLabs Scribe v2, word-level timestamps (see transcript.json). Not human-reviewed.
+
+[00:00:00.0 - 00:00:00.2] Speaker 1: Gotcha.
+[00:00:00.7 - 00:00:00.8] Speaker 2: Yeah.
+[00:00:01.9 - 00:00:02.8] Speaker 2: All right, we're on.
+[00:00:02.6 - 00:00:02.8] Speaker 1: So
+[00:00:03.6 - 00:00:06.0] Speaker 1: yeah, I'm Eddie. Your adoration?
+[00:00:04.1 - 00:00:06.7] Speaker 2: Hi, nice to meet you, too. You're Eddie?
+[00:00:08.3 - 00:00:08.5] Speaker 1: No.
+[00:00:09.2 - 00:00:09.5] Speaker 2: Okay.
+[00:00:09.9 - 00:00:12.5] Speaker 1: Addie. Oh, okay. Kinda like Eddie.
+[00:00:10.6 - 00:00:12.8] Speaker 2: Adoration, yeah. Well, my nickname is Addy,
+[00:00:13.7 - 00:00:13.9] Speaker 2: so
+[00:00:14.4 - 00:00:14.7] Speaker 1: Hmm.
+[00:00:14.8 - 00:00:15.0] Speaker 2: yeah.
+[00:00:15.9 - 00:00:17.7] Speaker 1: That's a nice name, though, Adoration,
+[00:00:17.1 - 00:00:18.4] Speaker 2: Yeah, [chuckles] actually.
+[00:00:18.7 - 00:00:21.9] Speaker 1: right? [coughs] I'm sorry.
+[00:00:19.9 - 00:00:20.5] Speaker 2: Exactly.
+[00:00:22.4 - 00:00:24.8] Speaker 2: Thank you. Yeah, thank you so much.
+[00:00:23.3 - 00:00:25.2] Speaker 1: I sh-shouldn't hit the mic when I do it.
+[00:00:26.5 - 00:00:26.9] Speaker 2: No, you're fine.
+[00:00:27.6 - 00:00:28.1] Speaker 1: Yeah. So
+[00:00:29.0 - 00:00:29.5] Speaker 1: where you from?
+[00:00:33.6 - 00:00:33.9] Speaker 1: Okay.
+[00:00:34.4 - 00:00:41.9] Speaker 2: So I'm from Baltimore, USA, um, but I grew up in Thailand partially and then around a couple different countries.
+[00:00:38.8 - 00:00:39.7] Speaker 1: Really? Wow.
+[00:00:41.4 - 00:00:42.3] Speaker 1: How do you like Thailand?
+[00:00:43.6 - 00:00:44.0] Speaker 2: Yeah.
+[00:00:45.3 - 00:00:45.5] Speaker 2: Yeah.
+[00:00:47.3 - 00:00:59.9] Speaker 2: I love Thailand. Um, it's great. It was really fun. Great weather, everything. I currently live in Taiwan, however. Um, yeah, I feel like Thailand is really great, like fun.
+[00:00:47.9 - 00:00:51.7] Speaker 1: I like Thailand, um, very much and like [inaudible]. Oh.
+[00:00:52.5 - 00:00:52.7] Speaker 1: Mm-hmm.
+[00:00:56.3 - 00:01:09.2] Speaker 1: Yeah. I feel like Thailand is beautiful from, um, like I've been to [in audibe] Yeah.
+[00:01:00.7 - 00:01:04.6] Speaker 2: Uh, but I would say that it's not really a place that you can build,
+[00:01:05.7 - 00:01:11.2] Speaker 2: um, a life necessarily just because they don't really have the infrastructure to support,
+[00:01:09.8 - 00:01:12.3] Speaker 1: Uh-huh. [clears throat] Really?
+[00:01:12.4 - 00:01:16.3] Speaker 2: um, I don't know, reality. [chuckles] Yeah.
+[00:01:17.4 - 00:01:30.4] Speaker 2: Yeah, I mean, as, as far as like physical infrastructure, as far as like having roads and trains, this and that, that's there. But I'm talking more of like, uh, their government systems and, uh, jobs and stuff like that.
+[00:01:17.9 - 00:01:18.2] Speaker 1: Right.
+[00:01:19.9 - 00:01:21.3] Speaker 1: Oh. Hmm. Uh-huh.
+[00:01:24.2 - 00:01:24.5] Speaker 1: Mm-hmm.
+[00:01:30.5 - 00:01:31.9] Speaker 1: Hmm. It's too corrupt.
+[00:01:30.5 - 00:01:33.7] Speaker 2: It's just like the legal system, it's just not really
+[00:01:34.7 - 00:01:35.5] Speaker 2: real. It's kinda...
+[00:01:36.7 - 00:01:47.9] Speaker 2: Yeah, or just primitive in a way, where it's like, "Oh yeah, but that's the law, but it's not really like that." And it's like, "Well, I kinda need to know [chuckles] what we're doing here." And, um, yeah.
+[00:01:36.8 - 00:01:37.1] Speaker 1: Yeah. Hmm.
+[00:01:43.6 - 00:01:43.9] Speaker 1: Mm-hmm. Hmm. Hmm.
+[00:01:45.3 - 00:01:45.6] Speaker 1: Mm-hmm.
+[00:01:46.6 - 00:01:49.7] Speaker 1: So yeah, it's not really set up for, for success.
+[00:01:49.7 - 00:01:49.9] Speaker 2: So...
+[00:01:54.6 - 00:01:57.8] Speaker 2: Yeah. Yeah, not for, not really set up for, to have, you know...
+[00:01:55.5 - 00:01:55.8] Speaker 1: Mm-hmm.
+[00:01:57.8 - 00:01:58.1] Speaker 1: Mm-hmm.
+[00:01:58.7 - 00:02:05.5] Speaker 2: If-- They have a lot of foreigners, don't get me wrong. But I, I, I can say over the 13 years I've lived there, it's, uh,
+[00:02:05.0 - 00:02:05.3] Speaker 1: Mm-hmm.
+[00:02:07.5 - 00:02:18.7] Speaker 2: yeah, kinda up and down, in and out, always changing. No real rule. It's like, you know, the idea of like what, what is the law? Write it down. It's like, "Well, we'll just do it word of mouth." And it's like that doesn't really work.
+[00:02:09.3 - 00:02:09.6] Speaker 1: Right.
+[00:02:13.0 - 00:02:13.6] Speaker 1: Oh my God.
+[00:02:16.2 - 00:02:16.5] Speaker 1: Right.
+[00:02:18.4 - 00:02:18.8] Speaker 1: Uh-huh.
+[00:02:19.6 - 00:02:23.2] Speaker 1: So how old were you when you moved from the US to,
+[00:02:19.8 - 00:02:26.4] Speaker 2: Um, so yeah. [chuckles] Yeah. I was...
+[00:02:24.0 - 00:02:24.5] Speaker 1: to Thailand?
+[00:02:27.3 - 00:02:27.5] Speaker 1: Uh-huh.
+[00:02:29.2 - 00:02:30.1] Speaker 1: Hmm. Mm-hmm.
+[00:02:29.2 - 00:02:34.2] Speaker 2: So I was 11. We first moved to Malaysia for a little bit and then Thailand.
+[00:02:35.1 - 00:02:39.5] Speaker 2: So yeah, and I've been back probably for like a year and a half,
+[00:02:39.6 - 00:02:40.3] Speaker 1: Mm-hmm. Hmm.
+[00:02:40.4 - 00:02:41.9] Speaker 2: um, since then,
+[00:02:43.1 - 00:02:43.7] Speaker 2: when I was like
+[00:02:43.2 - 00:02:45.6] Speaker 1: Been back... What do you mean? Were back where?
+[00:02:44.6 - 00:02:45.1] Speaker 2: 19,
+[00:02:45.9 - 00:02:46.1] Speaker 2: so...
+[00:02:47.8 - 00:02:50.6] Speaker 1: Oh, okay. Uh-huh. So you...
+[00:02:50.1 - 00:02:52.8] Speaker 2: Back to the States, Maryland. I'm from Maryland, yeah.
+[00:02:52.0 - 00:02:52.2] Speaker 1: Uh-huh.
+[00:02:53.3 - 00:02:56.4] Speaker 1: Yeah, yeah. You went back to the States when you were nineteen, you say?
+[00:02:53.6 - 00:02:54.9] Speaker 2: But I've lived around...
+[00:02:55.8 - 00:02:56.0] Speaker 2: What?
+[00:02:58.6 - 00:02:58.8] Speaker 1: Mm-hmm.
+[00:03:00.3 - 00:03:02.4] Speaker 1: And then you-- How long did you stay there
+[00:03:01.0 - 00:03:01.3] Speaker 2: Yeah.
+[00:03:03.6 - 00:03:04.2] Speaker 1: after that?
+[00:03:04.4 - 00:03:04.7] Speaker 2: So just,
+[00:03:05.4 - 00:03:09.9] Speaker 1: Mm-hmm. Mm-hmm. And then you went back to Thailand?
+[00:03:07.3 - 00:03:08.8] Speaker 2: uh, just for like a year and a half.
+[00:03:10.2 - 00:03:10.5] Speaker 2: Yeah.
+[00:03:11.5 - 00:03:11.8] Speaker 1: Yeah.
+[00:03:14.4 - 00:03:16.2] Speaker 1: Oh. Uh-huh. Uh-huh.
+[00:03:15.0 - 00:03:16.9] Speaker 2: Yeah, Thailand, uh, Cambodia.
+[00:03:17.8 - 00:03:19.0] Speaker 2: I lived around. I lived in about
+[00:03:18.3 - 00:03:18.6] Speaker 1: Right.
+[00:03:19.7 - 00:03:23.4] Speaker 1: Right. Do you know all of the South Asia-- So is that Southeast Asia, right?
+[00:03:19.9 - 00:03:21.5] Speaker 2: six or seven different countries in all.
+[00:03:23.2 - 00:03:23.6] Speaker 2: Mm-hmm.
+[00:03:27.3 - 00:03:30.8] Speaker 1: Yeah, I heard there's a lot of, like, beautiful beaches, right? You know the Philippines?
+[00:03:28.1 - 00:03:29.5] Speaker 2: That's Southeast Asia, yes.
+[00:03:33.5 - 00:03:33.8] Speaker 1: Mm-hmm.
+[00:03:34.7 - 00:03:38.5] Speaker 1: So what, what countries you know from there, like Thailand, Malaysia, the Philippines?
+[00:03:35.5 - 00:03:36.8] Speaker 2: Yeah, absolutely.
+[00:03:43.3 - 00:03:54.7] Speaker 2: Um, that I've been to. I have been to the Philippines. I haven't lived there. Um, I've lived in Malaysia. I've lived in Thailand. I've lived in Cambodia. As far as Southeast Asia, I've been to Laos.
+[00:03:43.4 - 00:03:43.8] Speaker 1: Uh, uh-huh.
+[00:03:45.0 - 00:03:45.6] Speaker 1: Uh, uh-huh.
+[00:03:47.9 - 00:03:48.2] Speaker 1: Right.
+[00:03:49.7 - 00:03:50.0] Speaker 1: Mm-hmm.
+[00:03:53.8 - 00:03:54.1] Speaker 1: Hmm. Mm-hmm.
+[00:03:55.4 - 00:03:58.1] Speaker 2: Uh, I've been to the Philippines for a bit. Um,
+[00:03:57.2 - 00:03:57.4] Speaker 1: Wow.
+[00:03:59.3 - 00:03:59.6] Speaker 1: Mm-hmm.
+[00:03:59.3 - 00:04:09.4] Speaker 2: I think that's all. Yeah, I haven't visited all the countries for some reason. I was supposed to go to Vietnam like several times, had my tickets booked and never went. Yep.
+[00:04:04.3 - 00:04:06.1] Speaker 1: Really? Really? What happened?
+[00:04:10.0 - 00:04:24.0] Speaker 2: Yep. Well, you know, the first time my family [clears throat] booked our tickets, and my-- I have a big family, okay? My parents had nine kids. So we were all going there, tickets booked, and then somebody's like, " [gasps] No, Vietnam's so dangerous.
+[00:04:12.9 - 00:04:13.3] Speaker 1: Mm-hmm.
+[00:04:14.3 - 00:04:16.0] Speaker 1: Mm-hmm. Hmm. Wow.
+[00:04:16.9 - 00:04:17.3] Speaker 1: Uh-huh.
+[00:04:24.2 - 00:04:36.2] Speaker 2: People will steal, like they will steal your things right out of your hotel window," and this and that. I was like, "Oh my God, so scary. I'm not going." And then, um, yeah, so we just never went, like, and that happened twice.
+[00:04:25.5 - 00:04:26.8] Speaker 1: Really? Oh my God.
+[00:04:27.7 - 00:04:28.1] Speaker 1: Yeah.
+[00:04:37.2 - 00:04:45.2] Speaker 2: But now I'm hearing from people that it's great. It's really nice. There's no problems. So I'm like, "What's the real story?" I don't know. I mean, I don't know.
+[00:04:42.2 - 00:04:44.1] Speaker 1: Yeah. Well, yeah, you know.
+[00:04:46.5 - 00:04:57.6] Speaker 1: Yeah, I mean, there's... In every country you're gonna have-- you're gonna find, you know, some sketchy people and some, like, really nice people, I guess, right? I mean, some countries have, like, a fame, you know, are known for...
+[00:04:46.5 - 00:04:48.5] Speaker 2: It's weird. I guess it depends on who's telling you.
+[00:04:58.2 - 00:04:58.5] Speaker 2: Right.
+[00:04:58.3 - 00:05:01.2] Speaker 1: I don't know if Vietnam is known for being dangerous, really.
+[00:05:02.5 - 00:05:02.7] Speaker 1: Right?
+[00:05:05.9 - 00:05:06.2] Speaker 1: Mm-hmm.
+[00:05:06.2 - 00:05:13.0] Speaker 2: Yeah, that's what I was thinking. I'm like, but the thing is, it was Thai people that were telling me that, so I was like taking more caution, like, "Whoa."
+[00:05:07.8 - 00:05:09.2] Speaker 1: Hmm. Okay.
+[00:05:11.1 - 00:05:11.8] Speaker 1: Right. Right.
+[00:05:14.3 - 00:05:16.3] Speaker 2: But to be honest, Thailand is pretty,
+[00:05:15.9 - 00:05:16.2] Speaker 1: Uh-huh.
+[00:05:17.3 - 00:05:21.5] Speaker 2: um, easygoing, not a lot of crime. So maybe from their perspective,
+[00:05:18.4 - 00:05:18.8] Speaker 1: Right.
+[00:05:22.4 - 00:05:23.9] Speaker 1: Right. Yeah, I mean,
+[00:05:22.5 - 00:05:26.1] Speaker 2: it's crazy, you know? 'Cause I'm from America, like [laughs]
+[00:05:25.5 - 00:05:32.8] Speaker 1: s-seems like America's much more controlled. There's, like, law and order, right? And then, like, these countries, it's pretty much like the wild, right?
+[00:05:27.2 - 00:05:28.4] Speaker 2: it's not that bad.
+[00:05:35.0 - 00:05:35.3] Speaker 2: Yeah.
+[00:05:37.4 - 00:05:46.1] Speaker 2: I mean, I'd say that on one side, but on the other hand side, America's crime rate is way higher than like anywhere that I've ever been to in Asia. Like...
+[00:05:39.3 - 00:05:40.4] Speaker 1: Right. Yeah.
+[00:05:41.6 - 00:05:51.3] Speaker 1: The thing is that in America, life is so expensive that if you got nothing, you're actually motivated to, to... You need to. I don't know. I guess, right? 'Cause those countries are so cheap,
+[00:05:52.8 - 00:05:53.0] Speaker 1: right?
+[00:05:54.6 - 00:05:56.7] Speaker 1: I don't know. Or it's the drugs.
+[00:05:56.1 - 00:06:09.5] Speaker 2: I mean, but, um, at the same time though, because it's, the countries are cheap, but the people are very poor. But it's just not in their culture to like... Like American culture is a lot more like... I remember when I was back there, I bought this little phone.
+[00:05:58.0 - 00:05:58.5] Speaker 1: Right.
+[00:05:59.6 - 00:06:00.0] Speaker 1: Right
+[00:06:09.6 - 00:06:19.8] Speaker 2: It was like- 25 bucks from, um, Walmart 'cause I just needed a phone for the time being, um, in the beginning of my stay there. So my family, we're staying in a hotel when we were back.
+[00:06:12.7 - 00:06:13.0] Speaker 1: Yeah.
+[00:06:16.9 - 00:06:17.2] Speaker 1: Yeah.
+[00:06:20.4 - 00:06:27.6] Speaker 2: Um, and I was at, having dinner at the hotel bar. I put my phone down, went to get a drink, came back, somebody had stolen it.
+[00:06:25.0 - 00:06:26.3] Speaker 1: Really? Ubuntu State?
+[00:06:28.4 - 00:06:43.3] Speaker 2: And I'm just thinking like that... Yeah, and I'm just thinking to myself like, "That's like a $25 phone. It's not even worth stealing." Like it's a, it's... I mean, it's not a toy, but it's practically a toy, and we're in a hotel, mind you.
+[00:06:30.1 - 00:06:30.4] Speaker 1: Uh-huh.
+[00:06:32.8 - 00:06:33.6] Speaker 1: Uh-huh. Huh.
+[00:06:38.4 - 00:06:48.7] Speaker 1: Right. [clears throat] Right. Who's gonna steal that, right? You say.
+[00:06:43.3 - 00:07:01.3] Speaker 2: Like people at this hotel, they can afford to spend at least $150 a night, $200 a night. And so I'm just thinking to myself like, "That's just so..." I literally thought in my mind, like I was just like, "That's just so sad," like [laughs] that you would steal something so...
+[00:06:48.9 - 00:06:55.2] Speaker 1: [chuckles]
+[00:07:01.4 - 00:07:11.5] Speaker 2: Like it was not like I had an iPhone. I was using like a very, like Walmart. I bought a Walmart phone because obviously I'm in another country. I need like, you know, one of those quick, we call them burner phones in a way.
+[00:07:06.7 - 00:07:07.9] Speaker 1: Yeah. Right.
+[00:07:11.6 - 00:07:21.6] Speaker 2: Like it's like just a quick phone to call. And I was just thinking like, wow, like meanwhile when I lived in Thailand, I was so used to los- I was so used to losing my phone. Like I lost my phone like twice a month.
+[00:07:17.6 - 00:07:19.0] Speaker 1: Mm. Mm-hmm.
+[00:07:21.6 - 00:07:32.9] Speaker 2: [lip smacks] And in Thailand, like if you left your phone at a restaurant or something, they'll keep your phone. They'll call you from your phone and be like, "Hey, you left your phone. Come get it." And then the next day you just come pick your phone up and then go about your day.
+[00:07:26.0 - 00:07:26.2] Speaker 1: Right.
+[00:07:30.3 - 00:07:39.5] Speaker 1: Y-y...
+[00:07:32.9 - 00:07:42.3] Speaker 2: So now I know like depending on what country I'm in, I have to change what I'm doing. Like I have to change up. I have to cold switch. Um, but yeah, in Asian countries,
+[00:07:43.3 - 00:07:50.6] Speaker 2: I don't know. Like I say, I don't know about Vietnam, so maybe in Vietnam they'll steal your phone. And so in Thailand that's like really crazy. Like that's insane. Um,
+[00:07:47.1 - 00:07:48.8] Speaker 1: Right. Nobody steals.
+[00:07:51.5 - 00:08:01.6] Speaker 2: so yeah, maybe when they say it's dangerous, they're like, "Oh, it's dangerous. People will steal your phone." And to me that's normal 'cause I'm from the US. I mean, not normal 'cause I didn't grow up there, but yeah, I get it.
+[00:07:52.1 - 00:07:52.4] Speaker 1: Huh.
+[00:07:57.8 - 00:07:58.4] Speaker 1: Right.
+[00:08:01.6 - 00:08:16.6] Speaker 2: Like I... That's normal. Like in the US, yeah. I remember my brother used to tell me like, I used to have this little basket purse and I would put my coins in there and they'd be dangling around, and he's like, "You can't let your coins dangle. People will know you have coins on you and try and steal it." And I'm like, "Why would people steal coins?" But that's America.
+[00:08:09.7 - 00:08:09.9] Speaker 1: Huh.
+[00:08:10.9 - 00:08:11.1] Speaker 1: Huh.
+[00:08:13.3 - 00:08:14.0] Speaker 1: Ooh.
+[00:08:14.8 - 00:08:15.4] Speaker 1: Well,
+[00:08:16.7 - 00:08:17.5] Speaker 2: America's just,
+[00:08:17.6 - 00:08:25.4] Speaker 1: right. Huh. So you'd say that if, if you leave your phone in a bar, on a bar or someone, like, there's no way you're gonna get it back?
+[00:08:18.4 - 00:08:22.7] Speaker 2: you drop money, somebody's picking it up and they're keeping it. [laughs] Yeah.
+[00:08:29.7 - 00:08:30.1] Speaker 1: Right.
+[00:08:30.5 - 00:08:41.1] Speaker 2: I mean, I wouldn't say everybody's a thief, but I think that, I know like people, like they have these ideas. Like people are like, "Oh, finders keepers, losers weepers." And it's like, well, I didn't l- leave my phone or lose it.
+[00:08:38.4 - 00:08:38.9] Speaker 1: Right.
+[00:08:40.2 - 00:08:44.0] Speaker 1: Huh. [clears throat] Okay.
+[00:08:41.7 - 00:08:51.5] Speaker 2: I just left it and you stole it. And there's so many people like that where it's so... It's just the culture. Like people are more likely and inclined to just steal. Um,
+[00:08:47.6 - 00:08:48.1] Speaker 1: Right.
+[00:08:52.5 - 00:08:55.9] Speaker 2: and like I say, I can't tell you why exactly. I think we just live in a...
+[00:08:53.5 - 00:08:55.0] Speaker 1: Yeah. Well...
+[00:08:56.8 - 00:09:02.2] Speaker 2: It's a more violent society. Like the crime rates are way higher. It's just a vi- it's a more violent society. People are just,
+[00:08:59.6 - 00:08:59.9] Speaker 1: Yeah.
+[00:09:01.2 - 00:09:04.8] Speaker 1: Maybe, yeah, I don't know. I guess a little bit, you know, the... I guess, yeah.
+[00:09:03.3 - 00:09:03.7] Speaker 2: I don't know.
+[00:09:05.6 - 00:09:09.8] Speaker 1: Well, so but whatever. L-like now you live in Taiwan, you say?
+[00:09:09.5 - 00:09:09.8] Speaker 2: Yeah.
+[00:09:12.0 - 00:09:12.2] Speaker 1: Right.
+[00:09:13.0 - 00:09:14.1] Speaker 1: So why did you move there?
+[00:09:14.2 - 00:09:14.9] Speaker 2: Mm, yeah.
+[00:09:16.8 - 00:09:17.2] Speaker 2: Yes.
+[00:09:19.5 - 00:09:29.6] Speaker 2: Um, I don't know. I kinda like it. We, um, came here for a vacation back before COVID and then got stuck here during COVID, and to be honest, it was great. Yeah, it was really great.
+[00:09:23.3 - 00:09:24.4] Speaker 1: Oh, really? Okay.
+[00:09:25.4 - 00:09:30.6] Speaker 1: Wow. [chuckles] So in a way, it was destiny.
+[00:09:29.6 - 00:09:36.3] Speaker 2: It was a wonderful COVID. I had a wonderful COVID. Um, I enjoyed... [laughs] Say again?
+[00:09:33.4 - 00:09:36.0] Speaker 1: So in a way, it was like, uh, like destiny.
+[00:09:40.7 - 00:09:52.3] Speaker 2: Yeah, exactly. It was destiny. In fact, Taiwan didn't go on lockdown for a very long time. I actually never been on lockdown. I was in Taiwan. Uh, everything was going great.
+[00:09:43.1 - 00:09:44.1] Speaker 1: Oh, okay.
+[00:09:45.2 - 00:09:46.1] Speaker 1: Really? Okay.
+[00:09:47.2 - 00:09:47.9] Speaker 1: The whole time?
+[00:09:52.4 - 00:10:05.6] Speaker 2: The whole world was shut down except for Taiwan. Then I went to Dubai, uh, right in the middle of COVID because I wanted to get ahead of my visa situation 'cause in Taiwan during COVID there was no vis- like you didn't need a visa, no visas.
+[00:09:52.9 - 00:09:53.1] Speaker 1: Mm. Mm-hmm.
+[00:10:06.3 - 00:10:16.8] Speaker 2: Um, but I still wanted to like get ahead of my visa situation, so I went to Dubai so that I could do that and come back, and then Taiwan shut down. And so then I'm in Dubai after Dubai's COVID shut down.
+[00:10:17.3 - 00:10:23.9] Speaker 2: So I basically skipped lockdown altogether and it was, it was wonderful. [laughs] Loved it.
+[00:10:18.0 - 00:10:28.8] Speaker 1: Right. Huh. Yeah. It was good. Good, good move. Good move for su- for sure. So yeah. So I'm kinda new to this really. Like, this is probably like my second recording,
+[00:10:26.9 - 00:10:27.2] Speaker 2: Yeah.
+[00:10:29.7 - 00:10:30.0] Speaker 1: you know?
+[00:10:31.1 - 00:10:35.9] Speaker 1: So yeah. Like, how, how's it been for you? Like, have you been recording for a while?
+[00:10:33.4 - 00:10:33.8] Speaker 2: Okay.
+[00:10:40.8 - 00:10:54.3] Speaker 2: Okay. Well, I mean, so when it first came out, my sisters are the ones who told me about it, and to be honest, I was really skeptical. I was like, "Uh, we don't know if it's real, so you know, just go with the flow." I wasn't really intending on doing many hours.
+[00:10:42.9 - 00:10:43.0] Speaker 1: Oh,
+[00:10:45.0 - 00:10:45.3] Speaker 1: yeah.
+[00:10:54.4 - 00:10:55.0] Speaker 2: I was just gonna
+[00:10:54.9 - 00:11:04.1] Speaker 1: Yeah. Uh-huh. [chuckles] Yeah. So you're sure that people got paid, right?
+[00:10:56.0 - 00:11:06.0] Speaker 2: run a test run and just kind of see where it goes. But to be honest, after people got paid, I was like, "Okay." [laughs] So yeah.
+[00:11:08.3 - 00:11:24.3] Speaker 2: P- I have two sisters who actually did it and they got paid money. So yeah, I, I, I wouldn't believe it if random people were like, "I got paid." I've been in so many internet things growing up. Um, I am not, yeah, I'm not, um, pessimistic about it, but,
+[00:11:09.6 - 00:11:10.6] Speaker 1: Oh, right.
+[00:11:12.5 - 00:11:12.9] Speaker 1: Right.
+[00:11:14.7 - 00:11:16.2] Speaker 1: Yeah. Really? Uh-huh.
+[00:11:18.7 - 00:11:19.6] Speaker 1: No one to trust.
+[00:11:21.0 - 00:11:21.2] Speaker 1: Oh.
+[00:11:25.3 - 00:11:27.7] Speaker 2: um, yeah, they got paid money, real cash, so,
+[00:11:25.4 - 00:11:28.8] Speaker 1: But how did, how did they got paid? How did they get paid?
+[00:11:28.8 - 00:11:31.1] Speaker 2: uh, yeah, I, now I'm... Go ahead.
+[00:11:33.1 - 00:11:33.3] Speaker 1: Uh-huh.
+[00:11:33.2 - 00:11:39.5] Speaker 2: Well, the easiest way I heard to get paid, 'cause a lot of people got paid different ways, but the easiest way to get paid is through a app called Wise,
+[00:11:36.0 - 00:11:36.8] Speaker 1: Wise, yeah.
+[00:11:40.4 - 00:11:47.3] Speaker 2: where, yeah, Wise, where they just send it right there, and then from Wise you can send it to any of your bank accounts. It's very easy. But, um, some people...
+[00:11:42.6 - 00:11:45.5] Speaker 1: And how much did they, how much did they have to work?
+[00:11:50.4 - 00:11:55.0] Speaker 2: So basically you get paid $14 an hour, so how m- however many hours you do,
+[00:11:50.7 - 00:11:51.1] Speaker 1: Oh.
+[00:11:52.2 - 00:11:52.5] Speaker 1: Uh-huh.
+[00:11:54.9 - 00:11:58.2] Speaker 1: Right. And you can do as many hours as you want?
+[00:11:56.1 - 00:11:57.0] Speaker 2: y- yeah, you get paid $14.
+[00:11:58.6 - 00:11:59.6] Speaker 2: It's just that simple. Yeah.
+[00:12:03.1 - 00:12:03.6] Speaker 1: Okay.
+[00:12:03.9 - 00:12:05.2] Speaker 2: Um, yeah, pretty much.
+[00:12:05.8 - 00:12:12.1] Speaker 1: But how-- what if you don't get approved or something like how, how mu- how much, how many hours have you made lately?
+[00:12:06.5 - 00:12:08.3] Speaker 2: Pretty much. As many hours as you can get.
+[00:12:13.4 - 00:12:13.5] Speaker 1: Huh
+[00:12:16.9 - 00:12:23.9] Speaker 2: I mean, I, I only did in the beginning, I only did like, I think two and a half hours 'cause I was, like I said, not really
+[00:12:21.0 - 00:12:21.3] Speaker 1: Uh-huh.
+[00:12:22.7 - 00:12:23.0] Speaker 1: Yeah.
+[00:12:24.0 - 00:12:31.3] Speaker 1: Uh, yeah, exactly. [mouse clicking] Uh-huh.
+[00:12:24.8 - 00:12:28.4] Speaker 2: motivated to do it until I saw money [chuckles]. But, um,
+[00:12:29.8 - 00:12:33.6] Speaker 2: you know, honestly, but, um, yeah, people have done
+[00:12:35.0 - 00:12:40.6] Speaker 2: decent amount of hours. I mean, I think for the first batch of people, it was about figuring out how to get set up,
+[00:12:37.8 - 00:12:40.3] Speaker 1: Yeah, exactly. Oh. Uh-huh.
+[00:12:41.9 - 00:12:53.8] Speaker 2: and so that took a long time, like figuring out like... 'Cause it was kinda like, "I don't know what to do," you know, this and that. But once people figure out how to get set up, they did their hours. Um, yeah, they made their money, so,
+[00:12:49.6 - 00:12:49.9] Speaker 1: Uh-huh.
+[00:12:51.2 - 00:12:51.5] Speaker 1: Wow.
+[00:12:52.8 - 00:12:56.6] Speaker 1: So yeah, what, what, what time is it for you right now?
+[00:12:55.1 - 00:12:57.0] Speaker 2: you know, as long as they're paying.
+[00:13:00.5 - 00:13:01.0] Speaker 1: Oh, okay.
+[00:13:01.5 - 00:13:03.6] Speaker 2: It is 11:00 AM.
+[00:13:04.4 - 00:13:04.7] Speaker 1: Uh-huh.
+[00:13:05.1 - 00:13:09.3] Speaker 2: Um, yeah, I actually just woke up 'cause I went to bed really late, um, recording with my sister.
+[00:13:06.3 - 00:13:07.7] Speaker 1: Oh, you stayed for a while.
+[00:13:10.1 - 00:13:11.3] Speaker 2: So, uh,
+[00:13:12.1 - 00:13:12.4] Speaker 1: Uh-huh.
+[00:13:12.2 - 00:13:17.6] Speaker 2: I did because her time zone is different. So I'm in Taiwan, but she's in Thailand, so
+[00:13:13.8 - 00:13:25.2] Speaker 1: Uh-huh. [mouse clicking] Okay.
+[00:13:18.6 - 00:13:20.9] Speaker 2: our free time, it doesn't match up that great. So
+[00:13:21.7 - 00:13:27.2] Speaker 2: I did go to bed really late and I was like, "Oh my God." But I don't know. I'm on break from school right now,
+[00:13:27.8 - 00:13:28.1] Speaker 1: Mm-hmm.
+[00:13:28.0 - 00:13:32.8] Speaker 2: so I'm trying to record 'cause yeah, it's, it's, it's a decent opportunity.
+[00:13:29.9 - 00:13:34.5] Speaker 1: For sure. I mean, if we're gonna get paid, I mean, then we could do this for hours, I guess, right?
+[00:13:36.0 - 00:13:42.7] Speaker 1: Yeah. [chuckles] Yeah. But we gotta... I mean, I gotta make sure, and I mean, I'm gonna, like...
+[00:13:38.2 - 00:13:42.4] Speaker 2: There you go. There you go. As long as we're getting paid, I'm down.
+[00:13:43.6 - 00:13:46.4] Speaker 1: Like, we gotta set up time. So does this time work for you?
+[00:13:51.5 - 00:14:04.0] Speaker 2: Um, usually it does not because I, I do go to school. We're on break right now, but usually I go to school in the morning and sometimes I work after school, so, um, yeah, it's kind of a...
+[00:13:52.0 - 00:13:53.0] Speaker 1: Mm. Okay.
+[00:13:55.5 - 00:13:56.5] Speaker 1: Like, uh,
+[00:13:58.4 - 00:13:59.5] Speaker 1: oh, okay. All
+[00:14:03.7 - 00:14:04.1] Speaker 1: right. Right.
+[00:14:04.3 - 00:14:22.2] Speaker 2: But we could definitely like share our schedules. I will be free, um, like I-- I'm out of school till Wednesday. Um, I have a few private students here and there, so there is time, times during the day, especially for the le- for the next couple of days, that I will be free during the day.
+[00:14:06.5 - 00:14:06.8] Speaker 1: Uh-huh.
+[00:14:12.3 - 00:14:12.5] Speaker 1: Oh.
+[00:14:22.3 - 00:14:23.3] Speaker 2: I would say, um,
+[00:14:22.6 - 00:14:23.0] Speaker 1: Right.
+[00:14:24.2 - 00:14:24.8] Speaker 2: tomorrow
+[00:14:25.1 - 00:14:25.4] Speaker 1: Uh-huh.
+[00:14:26.0 - 00:14:32.2] Speaker 2: I'll be more so free in my afternoons, so after my 12 o'clock, which is like an hour from now.
+[00:14:33.0 - 00:14:33.9] Speaker 2: Um, and then
+[00:14:34.8 - 00:14:46.1] Speaker 2: Monday mornings work for me great. Uh, Tuesday, all- that'll be great too, but then I go back to school. [chuckles] Um, what, what time zone are you in, by the way?
+[00:14:40.1 - 00:14:40.9] Speaker 1: Right. Yeah.
+[00:14:43.5 - 00:14:44.8] Speaker 1: Um, uh, Miami.
+[00:14:46.0 - 00:14:50.0] Speaker 1: Like, um, yeah, ten. It's ten fifteen right now,
+[00:14:49.5 - 00:14:55.6] Speaker 2: Oh, okay. [sniffs] I see, okay.
+[00:14:51.0 - 00:14:51.3] Speaker 1: PM.
+[00:14:52.6 - 00:15:03.6] Speaker 1: PM. Uh, but I'm, I'm mostly free at this time. Like, I finish working at nine s- um, I mean, yeah, nine. This is... Right now it's ten fifteen,
+[00:14:57.4 - 00:14:58.2] Speaker 2: Got it. Okay.
+[00:15:02.4 - 00:15:02.6] Speaker 2: Mm-hmm.
+[00:15:05.7 - 00:15:06.1] Speaker 1: you know?
+[00:15:08.3 - 00:15:08.9] Speaker 2: Okay.
+[00:15:09.9 - 00:15:12.8] Speaker 2: I mean, yeah, this could work for us definitely for the next couple of days.
+[00:15:09.9 - 00:15:15.9] Speaker 1: Yeah. Okay, so you say we could do, like, at least an hour a day, I guess, or maybe two?
+[00:15:15.4 - 00:15:15.5] Speaker 2: Mm-hmm.
+[00:15:18.1 - 00:15:28.3] Speaker 1: Right? I mean, it's not that hard, right? [chuckles] Yeah. [chuckles] Yeah. Right. Um,
+[00:15:19.9 - 00:15:21.0] Speaker 2: Yeah, maybe two.
+[00:15:21.8 - 00:15:22.2] Speaker 2: Yeah.
+[00:15:25.1 - 00:15:30.6] Speaker 2: I mean, it's really not. Like, just come up with things to talk about. [laughs] Well, tell me about yourself though. Where are you from?
+[00:15:29.4 - 00:15:31.1] Speaker 1: yeah, I mean, I'm from Peru,
+[00:15:31.5 - 00:15:32.4] Speaker 2: What do you do?
+[00:15:32.5 - 00:15:35.2] Speaker 1: right? You know Peru? Yeah, this is in South America.
+[00:15:35.7 - 00:15:36.3] Speaker 2: Okay.
+[00:15:36.7 - 00:15:38.4] Speaker 1: Yeah. But I kinda, like,
+[00:15:37.8 - 00:15:38.5] Speaker 2: Of course.
+[00:15:39.3 - 00:15:43.9] Speaker 1: went to the States when I was pretty young. Like, when I was a baby, like, my parents took me,
+[00:15:45.1 - 00:15:54.1] Speaker 1: and... But we... I've, I've, I've lived in, like, different states. I've lived in Texas, I've lived in, in Florida. Like, I go to Miami quite often.
+[00:15:48.3 - 00:15:48.7] Speaker 2: Mm-hmm.
+[00:15:54.3 - 00:15:54.7] Speaker 2: Mm-hmm.
+[00:15:55.2 - 00:16:02.4] Speaker 1: And I've lived in , in California. I know California. I know... Yeah, I've been to the States, like,
+[00:15:58.5 - 00:16:14.6] Speaker 2: Nice. [sniffs] I see.
+[00:16:03.5 - 00:16:09.5] Speaker 1: many times, but I've never actually, like, lived there, you know? Like, for more than, say, a month or two,
+[00:16:10.6 - 00:16:10.9] Speaker 1: you know?
+[00:16:12.8 - 00:16:19.1] Speaker 1: It's, yeah, it's really expensive. Like, it's really cheap to live in Peru, and you can actually find good conditions, you know?
+[00:16:15.6 - 00:16:15.9] Speaker 2: Mm-hmm.
+[00:16:19.2 - 00:16:28.3] Speaker 2: Oh, yeah. [sniffs] Understood. Yes. Yes. I understand that, yeah. The States is very expensive.
+[00:16:21.3 - 00:16:21.5] Speaker 1: Yeah.
+[00:16:22.9 - 00:16:36.9] Speaker 1: Yeah. But it's kinda wild, you know? Yeah, now more than ever. I mean, it, it did... It, it wasn't like that, you know? It used to be pr- like, you could have, like, a regular job, and you could buy a house and stuff, right?
+[00:16:32.7 - 00:16:33.5] Speaker 2: Oh my goodness.
+[00:16:35.3 - 00:16:35.6] Speaker 2: Yeah.
+[00:16:37.0 - 00:16:38.3] Speaker 1: Like, now that's impossible.
+[00:16:40.1 - 00:16:44.8] Speaker 1: Right? Like, really, like, nobody who has a regular job can afford a house, yeah.
+[00:16:40.7 - 00:16:41.1] Speaker 2: Mm-hmm.
+[00:16:42.8 - 00:16:43.4] Speaker 2: Way, yeah.
+[00:16:44.3 - 00:16:45.4] Speaker 2: There's no way right now.
+[00:16:46.8 - 00:16:47.8] Speaker 1: Right? I don't know.
+[00:16:48.7 - 00:16:51.8] Speaker 1: I, I, I mean, you can get it with credit and stuff, right?
+[00:16:48.9 - 00:16:49.8] Speaker 2: Absolutely not.
+[00:16:51.4 - 00:16:52.9] Speaker 2: Yeah. America's...
+[00:16:56.2 - 00:16:58.5] Speaker 2: Right. You, I mean, you, you can figure it out, but
+[00:16:57.2 - 00:16:57.5] Speaker 1: Yeah.
+[00:16:59.3 - 00:17:02.4] Speaker 2: nah, it ain't it. I'm not gonna lie, it ain't it. Mm-mm.
+[00:17:00.3 - 00:17:03.5] Speaker 1: Yeah. So I kinda, like... Yeah.
+[00:17:03.7 - 00:17:19.6] Speaker 2: It's just getting worse and worse too. [sniffs] Yes, exactly.
+[00:17:04.3 - 00:17:18.0] Speaker 1: I, like, work online, and I... Most of my clients are international, so I make money in dollars. With a couple thousand dollars, you can really live good in Peru. Like, that's, like, ten minimum wages or something, yeah.
+[00:17:18.7 - 00:17:20.8] Speaker 1: Uh-huh. So, yeah.
+[00:17:21.9 - 00:17:23.6] Speaker 2: That's the dream, to be honest.
+[00:17:22.0 - 00:17:30.8] Speaker 1: Well, yeah, but it's hard to find work too, because most companies n- you need permission to work in the States, and I'm not a citizen, you know? So
+[00:17:31.9 - 00:17:36.8] Speaker 1: I kinda struggle to find clients. I work with Asian clients, like Chinese and
+[00:17:34.8 - 00:17:35.2] Speaker 2: Mm-hmm.
+[00:17:37.6 - 00:17:47.4] Speaker 1: European. I, I'm not... Like, if I had, like, a job from an American company making maybe $3,000, maybe I... That would be great, you know? But I don't.
+[00:17:39.8 - 00:17:40.4] Speaker 2: Mm-hmm.
+[00:17:46.7 - 00:17:47.2] Speaker 2: Yeah.
+[00:17:48.2 - 00:17:50.5] Speaker 1: I have to, like, yeah, hustle and...
+[00:17:51.0 - 00:17:53.5] Speaker 2: That would be great, yeah. What do you do, by the way?
+[00:17:51.4 - 00:17:51.6] Speaker 1: What?
+[00:17:54.2 - 00:17:55.0] Speaker 1: What do I do?
+[00:17:56.1 - 00:17:56.7] Speaker 2: What do you do?
+[00:17:56.6 - 00:18:01.2] Speaker 1: Just, you know, um, I teach English and Spanish,
+[00:17:59.5 - 00:17:59.8] Speaker 2: Yeah.
+[00:18:02.4 - 00:18:06.7] Speaker 1: and I do, like, yeah, like, some narrations. I'm a narrator too.
+[00:18:04.4 - 00:18:04.8] Speaker 2: Mm-hmm.
+[00:18:05.9 - 00:18:06.5] Speaker 2: Wow.
+[00:18:08.1 - 00:18:14.1] Speaker 1: I narrate some books, yeah. I try to always find this kinda stuff to make money online, you know?
+[00:18:11.5 - 00:18:13.3] Speaker 2: Awesome. Wow, that's incredible.
+[00:18:17.5 - 00:18:21.6] Speaker 1: Yeah. Um, um, I've worked for companies too, in sales and stuff.
+[00:18:18.5 - 00:18:20.0] Speaker 2: Mm-hmm. I understand
+[00:18:22.7 - 00:18:33.1] Speaker 1: I, uh, my family's got some companies too, like my mom's on real estate and stuff. I work with her. I really don't have like, uh, one thing that I do, right?
+[00:18:24.7 - 00:18:25.0] Speaker 2: Mm-hmm.
+[00:18:32.7 - 00:18:33.0] Speaker 2: Mm-hmm.
+[00:18:33.1 - 00:18:33.9] Speaker 1: I just, you know,
+[00:18:34.4 - 00:18:34.9] Speaker 2: Lovely.
+[00:18:34.7 - 00:18:36.4] Speaker 1: work here and there, you know? Yeah.
+[00:18:37.7 - 00:18:41.1] Speaker 2: Right, hustler. [chuckles] Yeah.
+[00:18:38.0 - 00:18:38.7] Speaker 1: Yeah. What do you do?
+[00:18:42.4 - 00:18:52.3] Speaker 2: Uh, yeah. Well, I do teach English as well over here in Taiwan. Um, I've been in crypto for a long time. Cryptocurrency. Yep.
+[00:18:43.9 - 00:18:44.3] Speaker 1: Right.
+[00:18:47.0 - 00:18:47.5] Speaker 1: You have?
+[00:18:49.1 - 00:18:50.5] Speaker 1: Wow. How's that been?
+[00:18:55.1 - 00:18:55.3] Speaker 2: Yeah.
+[00:18:55.7 - 00:18:56.2] Speaker 1: Yeah.
+[00:18:56.4 - 00:19:02.4] Speaker 2: I mean, it was great, especially in the beginning, it was wonderful. Now I'm more mature and more astute, so,
+[00:18:58.1 - 00:18:58.4] Speaker 1: Yeah.
+[00:19:00.3 - 00:19:00.7] Speaker 1: Wow.
+[00:19:03.3 - 00:19:15.6] Speaker 2: you know. But no, crypto's a great... Yeah, I, I recommend everybody dabble in crypto just because, in my opinion, it's the future. You're gonna wanna know how to use it, you're gonna wanna know where it's at, and you're gonna wanna have some money in it.
+[00:19:09.6 - 00:19:09.9] Speaker 1: Yeah.
+[00:19:13.3 - 00:19:15.3] Speaker 1: Yeah. I mean, yeah, it's a lot of
+[00:19:15.9 - 00:19:17.2] Speaker 2: That's just my opinion, so.
+[00:19:16.5 - 00:19:29.2] Speaker 1: things to it. Like, I mean, I remember a time where it got to like, I don't know, $100,000 for one Bitcoin or something. Now it's down to like 40 something, right? It's-- But I mean, there's a lot of ways to it, right?
+[00:19:26.0 - 00:19:26.5] Speaker 2: Oh, yeah.
+[00:19:27.5 - 00:19:28.4] Speaker 2: That was recently.
+[00:19:29.3 - 00:19:35.8] Speaker 1: Like you say, buy and sell and stop or keep the coin. Eventually everyone's gonna use it, right? But eventually
+[00:19:30.7 - 00:19:31.1] Speaker 2: Mm-hmm.
+[00:19:36.7 - 00:19:40.9] Speaker 1: you could earn Bitcoin, right? Like people's gonna pay you in Bitcoin too, right? I guess.
+[00:19:37.8 - 00:19:38.2] Speaker 2: Yeah.
+[00:19:40.2 - 00:19:40.7] Speaker 2: Absolutely.
+[00:19:44.0 - 00:19:44.4] Speaker 1: All right.
+[00:19:44.6 - 00:19:45.6] Speaker 2: Yep. Yeah.
+[00:19:45.7 - 00:19:46.3] Speaker 1: Right.
+[00:19:47.1 - 00:19:53.2] Speaker 2: Yeah, I recommend people holding Bitcoin, like buy and leave it. [sighs] But yeah.
+[00:19:48.4 - 00:19:52.7] Speaker 1: Yeah. I got into-- I actually got into it too, but I've
+[00:19:53.7 - 00:20:00.8] Speaker 1: like eventually got scammed and lost my, all my crypto, man. Yeah. It sucks, man. Yeah.
+[00:19:55.9 - 00:19:56.4] Speaker 2: Mm.
+[00:20:00.4 - 00:20:01.0] Speaker 2: Me too.
+[00:20:02.6 - 00:20:03.5] Speaker 2: Me too.
+[00:20:04.4 - 00:20:06.1] Speaker 1: That's devastating, right? Like it's...
+[00:20:04.5 - 00:20:06.9] Speaker 2: I can relate. I got scammed so bad.
+[00:20:07.0 - 00:20:09.4] Speaker 1: Yeah. It's really demoralizing. Yeah.
+[00:20:08.6 - 00:20:12.3] Speaker 2: Oh, yeah, it's scary. Oh my God, absolutely devastating.
+[00:20:14.2 - 00:20:16.7] Speaker 2: Oh my goodness. I'm, I'm telling, I was talking to a guy last night,
+[00:20:17.5 - 00:20:21.4] Speaker 2: um, at this gathering. I'm like, "You have no idea how traumatizing
+[00:20:19.4 - 00:20:23.9] Speaker 1: Yeah. It's terrible, right? And so, so I mean, it's kinda like,
+[00:20:22.5 - 00:20:23.1] Speaker 2: it is,"
+[00:20:24.0 - 00:20:24.9] Speaker 2: you know? It's bad.
+[00:20:24.8 - 00:20:28.4] Speaker 1: you know, like how we get, we got through that, you know? Like, I don't know.
+[00:20:30.5 - 00:20:35.9] Speaker 1: Man, we lived through it. I mean, yeah. I mean, how, how was it for you? How, what, what happened?
+[00:20:32.2 - 00:20:33.3] Speaker 2: Yeah, exactly.
+[00:20:34.8 - 00:20:35.9] Speaker 2: It really is.
+[00:20:39.6 - 00:20:42.5] Speaker 2: Oh, it was horrible. I, um,
+[00:20:44.3 - 00:20:51.3] Speaker 2: um, yeah, I, I basically, it was like a call center scam type thing. I was trying to get help from one platform,
+[00:20:48.2 - 00:20:48.5] Speaker 1: Uh-huh.
+[00:20:52.2 - 00:20:57.1] Speaker 2: called them as a call center, but really they were a scam call center, and they
+[00:20:58.0 - 00:21:00.3] Speaker 2: wiped my entire computer out, and I had
+[00:21:00.5 - 00:21:00.9] Speaker 1: Fuck.
+[00:21:01.1 - 00:21:14.1] Speaker 2: a lot of money. They robbed me so bad. Like, I'm telling you, like, I lost so much. I mean, I can't really say I lost so much money because obviously I made that money on crypto, but they got me really good.
+[00:21:12.2 - 00:21:13.8] Speaker 1: Of course. Yeah, man.
+[00:21:14.3 - 00:21:15.8] Speaker 2: It was horrible. It was a nightmare.
+[00:21:14.9 - 00:21:17.1] Speaker 1: And there's no way around it, right? It's like...
+[00:21:16.7 - 00:21:18.1] Speaker 2: Honestly, it was like, ugh.
+[00:21:19.5 - 00:21:19.9] Speaker 2: Yeah.
+[00:21:19.8 - 00:21:20.3] Speaker 1: Yeah.
+[00:21:21.6 - 00:21:26.7] Speaker 2: There was nothing I could-- I didn't know what to do. You have to understand back then, like this is like nine years ago.
+[00:21:24.1 - 00:21:24.5] Speaker 1: Right.
+[00:21:27.5 - 00:21:33.4] Speaker 2: Um, back then there was really no protocol of like, what are you supposed to do? Nobody knew
+[00:21:29.1 - 00:21:29.7] Speaker 1: There-- I mean,
+[00:21:30.5 - 00:21:41.5] Speaker 1: what, what can you do now? I mean, you-- there's nothing we can do right now. Like, these people are in different countries, that's a different legislation. You cannot even sue. There's no police to call.
+[00:21:34.7 - 00:21:35.1] Speaker 2: anything.
+[00:21:39.4 - 00:21:40.8] Speaker 2: Yeah. Like, yeah, exactly.
+[00:21:41.6 - 00:21:41.8] Speaker 1: Like,
+[00:21:42.4 - 00:21:42.6] Speaker 2: Yeah.
+[00:21:42.7 - 00:21:45.0] Speaker 1: what are you gonna do? I mean, they're not gonna send you your money back.
+[00:21:46.3 - 00:21:46.5] Speaker 2: Yeah.
+[00:21:47.7 - 00:21:48.1] Speaker 1: Right.
+[00:21:49.0 - 00:21:49.3] Speaker 1: Yeah.
+[00:21:49.8 - 00:21:55.9] Speaker 2: No, absolutely not. All that money's long gone. [sniffs] Very long gone. So, yeah.
+[00:21:50.9 - 00:21:54.4] Speaker 1: That's bad. You just need to be aware and like careful and stuff.
+[00:21:55.8 - 00:22:05.1] Speaker 1: Oh, man. You know, I was, I was like, today I bought my-- I, I rented a place in Miami for like, for the World Cup. It's gonna be in June,
+[00:21:57.9 - 00:21:58.2] Speaker 2: Yeah.
+[00:21:59.7 - 00:22:00.9] Speaker 2: Traumatized for life.
+[00:22:05.9 - 00:22:07.6] Speaker 1: you know? And I'm like,
+[00:22:08.5 - 00:22:21.9] Speaker 1: as- it was asking me for my passport, right? Like this, I gotta like apply to be a tenant in this, in this apartment, right? And I'm like, so I just posted this, this picture of my passport, and it was like, "Your passport's expired."
+[00:22:09.7 - 00:22:27.5] Speaker 2: Uh-huh. [clears throat] Right. [clears throat] [sniffs] Oh.
+[00:22:22.8 - 00:22:26.9] Speaker 1: And I'm like, "Fuck, my passport's expired." So I'm like, "Oh man, I gotta renew it."
+[00:22:28.0 - 00:22:30.0] Speaker 1: So I just paid for the renewal,
+[00:22:30.9 - 00:22:40.7] Speaker 1: and then I'm like, "But I was in Miami this last January. How could it be expired?" And I think I already renewed it. Fuck. I don't know. So I just wanna check that,
+[00:22:31.2 - 00:22:42.5] Speaker 2: Yeah. [sniffs] Yeah.
+[00:22:41.9 - 00:22:42.3] Speaker 1: you know?
+[00:22:43.5 - 00:22:47.3] Speaker 1: But I already paid for it, so I just... Yeah, it was kinda dumb.
+[00:22:47.5 - 00:22:48.9] Speaker 2: Yeah, understood.
+[00:22:48.7 - 00:22:54.7] Speaker 1: Yeah. So you're gonna stay living in Taiwan for... Like, what are your plans? Like, how long you would think you'll stay?
+[00:22:53.1 - 00:22:54.3] Speaker 2: Yeah, I understand.
+[00:22:57.3 - 00:22:58.7] Speaker 2: I don't know. Actually, I was
+[00:22:58.4 - 00:22:59.6] Speaker 1: Dubai, man.
+[00:22:59.7 - 00:23:10.8] Speaker 2: planning on being in Dubai right now. I was supposed to go in January. I postponed it to August, and oh, thank God. [chuckles] Yeah, but no, now, you know, they're at, they're at, they're at war.
+[00:23:01.5 - 00:23:02.6] Speaker 1: Man, I'd love to.
+[00:23:03.8 - 00:23:06.2] Speaker 1: You postponed Dubai? Why, why you...
+[00:23:07.8 - 00:23:16.9] Speaker 1: Oh, M- where? Yeah, Dubai. Like Dubai, Dubai. They're getting bombed. But what? The Dubai, the city Dubai is getting bombed right now? Come on. Yeah?
+[00:23:12.4 - 00:23:17.5] Speaker 2: I mean, well, they're not at war. They're getting bom- they're getting bombed by Iran. Yeah, Dubai, they're getting bombed by Iran.
+[00:23:19.2 - 00:23:20.0] Speaker 1: That's terrible. What?
+[00:23:20.9 - 00:23:21.9] Speaker 2: By Iran, yeah.
+[00:23:20.9 - 00:23:23.1] Speaker 1: Yeah, the E-E-A... What's it?
+[00:23:23.1 - 00:23:24.6] Speaker 2: The UAE. Yeah.
+[00:23:24.2 - 00:23:25.1] Speaker 1: U-A-E.
+[00:23:25.7 - 00:23:28.9] Speaker 2: Yeah. The UAE, yeah, they're getting bombed by Iran.
+[00:23:26.0 - 00:23:29.5] Speaker 1: But that's-- I mean, they're not bombing the city of Dubai, right?
+[00:23:30.2 - 00:23:30.8] Speaker 2: So, yeah.
+[00:23:31.8 - 00:23:40.7] Speaker 1: I mean, I don't know. [coughs]
+[00:23:34.0 - 00:23:37.7] Speaker 2: Well, there's-- I mean, no, they're trying to bomb the bases, but
+[00:23:38.6 - 00:23:46.3] Speaker 2: yeah, people are-- the, the bombs are over their heads. It's, it's bad. I mean, the-- and the government's doing a great job intercepting them, but
+[00:23:42.4 - 00:23:42.4] Speaker 1: Mm-hmm.
+[00:23:46.9 - 00:23:49.0] Speaker 1: It's... Yeah. Yeah. Well,
+[00:23:47.1 - 00:23:51.4] Speaker 2: debris are flying, hitting buildings. It's, it's not, in my opinion, it's not safe.
+[00:23:50.0 - 00:24:02.0] Speaker 1: yeah, I have some students from Israel and stuff, and they also like get bombed pretty much on a daily basis, and they have like alarms and stuff, and they gotta get like into the shelters and stuff.
+[00:23:53.8 - 00:23:54.0] Speaker 2: Yeah.
+[00:23:57.2 - 00:23:57.4] Speaker 2: Mm.
+[00:23:59.7 - 00:23:60.0] Speaker 2: Yeah.
+[00:24:02.7 - 00:24:06.7] Speaker 2: Exactly. [sniffs] Mm-hmm.
+[00:24:04.5 - 00:24:10.2] Speaker 1: That's not... Yeah, it's gotta be-- That's gotta suck really, right? Like to live under... Yeah.
+[00:24:11.1 - 00:24:13.5] Speaker 1: What? You don't have that in Taiwan, right? Right now.
+[00:24:12.6 - 00:24:13.5] Speaker 2: It's terrifying.
+[00:24:15.2 - 00:24:15.6] Speaker 1: Yeah.
+[00:24:16.7 - 00:24:21.0] Speaker 1: So what, you were gonna go to Dubai, and then you, you just changed your mind because of this?
+[00:24:17.9 - 00:24:21.3] Speaker 2: No, no, no. We're not going through that right now. Um, but I mean-
+[00:24:25.7 - 00:24:38.0] Speaker 2: No, no, no, I didn't know yet. I was, um, I just got done my teaching license. Um, and I was gonna do a job there, but my teaching license would've been finished in February instead of January, which is the hiring cycle.
+[00:24:38.1 - 00:24:40.8] Speaker 2: So I was like, "Okay, I'll wait till August, the next hiring cycle," and,
+[00:24:38.7 - 00:24:39.1] Speaker 1: Uh-huh.
+[00:24:41.9 - 00:24:53.6] Speaker 2: you know. And then in March, all of a sudden, Dubai was getting phoned. So I was like, "Oh, all right." [chuckles] I have the teaching license already.
+[00:24:44.5 - 00:24:47.8] Speaker 1: But you're gonna-- you was gonna get your teaching license in Dubai?
+[00:24:50.9 - 00:24:51.1] Speaker 1: Oh.
+[00:24:53.1 - 00:24:53.4] Speaker 1: Uh-huh.
+[00:24:53.7 - 00:25:01.1] Speaker 2: I got it, uh, the US online, but, um, I was gonna get the job in Dubai. [chuckles] But
+[00:24:57.9 - 00:25:00.5] Speaker 1: Oh, okay. You were gonna get a job as a teacher,
+[00:25:02.0 - 00:25:03.4] Speaker 1: like in a high school or something?
+[00:25:02.6 - 00:25:03.2] Speaker 2: thank God.
+[00:25:05.0 - 00:25:05.3] Speaker 2: Yeah.
+[00:25:08.3 - 00:25:11.5] Speaker 2: Uh, maybe in an international or international boarding school.
+[00:25:08.5 - 00:25:15.0] Speaker 1: Wow. That's really cool. Hey, so I've seen these programs, like I teach and stuff, like they
+[00:25:13.3 - 00:25:13.6] Speaker 2: Yeah.
+[00:25:16.1 - 00:25:20.6] Speaker 1: kinda like recruit Latin Americans to go teach in the USA and stuff, but
+[00:25:21.4 - 00:25:23.4] Speaker 1: I don't know if the money is good. Like,
+[00:25:24.3 - 00:25:24.8] Speaker 2: Mm.
+[00:25:24.3 - 00:25:34.3] Speaker 1: I don't wanna like go there to make, you know... Like maybe... And you gotta pay for the program too. Like, that's kinda common in, in South America. There's like agencies that get you a job in the States,
+[00:25:29.1 - 00:25:29.5] Speaker 2: Right.
+[00:25:35.2 - 00:25:39.1] Speaker 1: but you gotta pay for it first. So it's an investment, you know?
+[00:25:39.0 - 00:25:39.3] Speaker 2: Mm-hmm.
+[00:25:40.6 - 00:25:46.2] Speaker 1: And then you get your money back while working. But nowadays it's really expensive, and you don't even get your money back, so
+[00:25:43.8 - 00:25:44.5] Speaker 2: Ooh, yeah.
+[00:25:47.1 - 00:25:49.6] Speaker 1: kinda I don't know if it's gonna make any sense, you know?
+[00:25:51.1 - 00:25:51.5] Speaker 2: Facts.
+[00:25:51.6 - 00:25:58.8] Speaker 1: I don't know. Yeah. But how's living like in Taiwan? Is, is it affordable, like compared to the States? I guess it is, right?
+[00:25:54.4 - 00:25:55.7] Speaker 2: Right. What's the point?
+[00:26:00.8 - 00:26:01.0] Speaker 1: Mm-hmm.
+[00:26:01.9 - 00:26:04.9] Speaker 2: Oh, yeah, it's definitely affordable. I mean, it's, uh,
+[00:26:04.7 - 00:26:05.1] Speaker 1: Hmm.
+[00:26:05.7 - 00:26:07.5] Speaker 2: a little more expensive than Thailand, but
+[00:26:08.3 - 00:26:12.6] Speaker 2: absolutely affordable. You can live pretty decent on like a, you know,
+[00:26:09.5 - 00:26:11.2] Speaker 1: Yeah. It's kinda like China, right?
+[00:26:13.6 - 00:26:26.2] Speaker 2: really any money. Like I [chuckles] uh, I think it's a little different than China. China sounds... I mean, I've been to China, but I haven't lived there, so I can't say it, everything, but China sounds a lot more,
+[00:26:14.4 - 00:26:19.8] Speaker 1: Uh-huh. Yeah.
+[00:26:24.6 - 00:26:28.1] Speaker 1: Right. Really? China's cheaper than Taiwan?
+[00:26:27.3 - 00:26:30.1] Speaker 2: uh, affordable than Taiwan.
+[00:26:30.3 - 00:26:30.8] Speaker 1: Really?
+[00:26:31.1 - 00:26:42.7] Speaker 2: Yeah. Oh, yeah, China actually sounds very good. China sounds incredibly good, I'm not gonna lie. Like I said, again, they have a really big propaganda-type thing over them, so it's hard to know all the specs until you live there.
+[00:26:32.3 - 00:26:32.9] Speaker 1: Right.
+[00:26:36.8 - 00:26:46.5] Speaker 1: Yeah, yeah, yeah. [sighs] Yeah. Really?
+[00:26:42.7 - 00:26:43.5] Speaker 2: But from what I hear
+[00:26:44.5 - 00:26:54.4] Speaker 2: from people, China is, I mean, you can live large for a small amount of money, and then as a teacher you can make a lot of money. So no, from Ch- from what I hear about China...
+[00:26:49.8 - 00:26:56.6] Speaker 1: Oh, but you gotta have like, like, uh, like an American job, like earn in dollars.
+[00:26:58.4 - 00:26:59.1] Speaker 1: You know what I'm saying?
+[00:27:02.0 - 00:27:06.7] Speaker 2: Oh, no, they pay you in yuan. They pay you in their local currency, but they pay you well.
+[00:27:02.1 - 00:27:05.2] Speaker 1: You need to find a job in Ch... Okay, okay, okay. Mm-hmm.
+[00:27:06.8 - 00:27:10.8] Speaker 1: So you can get a nice job, you say. It's easier to get a nice job in China.
+[00:27:09.1 - 00:27:09.3] Speaker 2: Yeah.
+[00:27:10.4 - 00:27:11.0] Speaker 2: They pay well.
+[00:27:13.5 - 00:27:13.8] Speaker 2: Yeah.
+[00:27:15.0 - 00:27:24.9] Speaker 2: Good job, and then, uh, like the housing, like you can get like a four-bedroom beautiful place, like I mean, really nice for like
+[00:27:15.4 - 00:27:15.8] Speaker 1: Uh-huh.
+[00:27:17.1 - 00:27:19.3] Speaker 1: Oh, yeah. I heard that. Yeah.
+[00:27:21.2 - 00:27:21.7] Speaker 1: Right.
+[00:27:24.1 - 00:27:25.6] Speaker 1: Yeah. I heard there's like...
+[00:27:25.9 - 00:27:26.3] Speaker 2: $800.
+[00:27:26.4 - 00:27:37.0] Speaker 1: I heard like the government made these cities, like they're just like ghost towns with just a lot of buildings, like eventually move a lot of people there, you know, so it makes housing very cheap, you know?
+[00:27:27.7 - 00:27:29.4] Speaker 2: So it's, yeah, it's a different world.
+[00:27:38.5 - 00:27:42.3] Speaker 1: I've seen like they built whole cities, and there's like nobody's living there.
+[00:27:40.4 - 00:27:40.7] Speaker 2: Ah.
+[00:27:42.4 - 00:27:43.9] Speaker 2: Yeah, well, it, it,
+[00:27:43.5 - 00:27:53.7] Speaker 1: I don't know. And then like maybe if they give you... Like they say, I don't know, they promote in South America, you can come live in China, have a free house, get a good job. A lot of people are gonna move there, right?
+[00:27:45.4 - 00:27:45.6] Speaker 2: uh,
+[00:27:47.2 - 00:27:52.0] Speaker 2: uh. [sniffs]
+[00:27:53.8 - 00:27:55.4] Speaker 1: And they fill it up with immigrants, and
+[00:27:55.7 - 00:27:56.0] Speaker 2: Mm.
+[00:27:56.3 - 00:27:57.7] Speaker 1: they create like new cities.
+[00:28:02.3 - 00:28:06.2] Speaker 1: Yeah, I've seen videos and stuff. Like China's huge. I mean, like...
+[00:28:03.0 - 00:28:05.7] Speaker 2: Okay. Yeah, I never heard of that, but that's interesting too.
+[00:28:07.1 - 00:28:08.6] Speaker 2: Yeah, I like that.
+[00:28:08.0 - 00:28:09.1] Speaker 1: Yeah. So
+[00:28:10.1 - 00:28:11.8] Speaker 2: Oh, absolutely. It's gigantic.
+[00:28:10.3 - 00:28:14.5] Speaker 1: yeah. And also heard like the l- like the culture is really different, like
+[00:28:12.9 - 00:28:23.7] Speaker 2: Too big. [chuckles] I'm sure.
+[00:28:15.3 - 00:28:19.2] Speaker 1: in inner China than in Shanghai, you say, like or Beijing.
+[00:28:20.6 - 00:28:22.8] Speaker 1: You know? Like it's very traditional and stuff.
+[00:28:23.9 - 00:28:24.3] Speaker 2: Yeah.
+[00:28:25.3 - 00:28:26.0] Speaker 2: I'm sure.
+[00:28:26.8 - 00:28:27.2] Speaker 1: Yeah.
+[00:28:27.7 - 00:28:33.8] Speaker 2: Yeah, yeah, countryside probably is like that. I've only been to Shanghai for a very short time.
+[00:28:28.2 - 00:28:29.0] Speaker 1: Oh. But
+[00:28:30.0 - 00:28:31.8] Speaker 1: so, but is Shanghai cheap though?
+[00:28:35.0 - 00:28:35.8] Speaker 1: It is. Like...
+[00:28:36.8 - 00:28:37.4] Speaker 2: I mean, it's,
+[00:28:38.3 - 00:28:38.7] Speaker 1: Wow.
+[00:28:38.5 - 00:28:45.5] Speaker 2: it's just regularly. Like it's, it's like, yeah, for America it's cheap. For Taiwan it's about the same. It's like, yeah, decent price. I mean,
+[00:28:40.6 - 00:28:41.0] Speaker 1: Right.
+[00:28:44.5 - 00:28:48.4] Speaker 1: Right. Right. So it's the most expensive city in China, but still cheap.
+[00:28:46.4 - 00:28:50.6] Speaker 2: you, yeah, eat, live, yeah, everything is about...
+[00:28:52.6 - 00:28:53.0] Speaker 1: Right.
+[00:28:53.2 - 00:28:57.9] Speaker 2: Yeah, it's, oh, yeah, it's not, it's not American, American prices. Yeah.
+[00:28:54.0 - 00:29:06.5] Speaker 1: Yeah. America's unlivable nowadays, right? Like, how did it get like that? I mean, how did it get so bad? I mean, [sighs] like I'm telling you, I've rented... I'm paying five thousand dollars for one month
+[00:29:01.6 - 00:29:02.6] Speaker 2: Oh, man. Yeah.
+[00:29:04.3 - 00:29:05.5] Speaker 2: I mean, inflation.
+[00:29:07.3 - 00:29:11.7] Speaker 1: in, in Miami Beach, you know? And that's the cheapest I can get. That's the cheapest.
+[00:29:12.8 - 00:29:18.4] Speaker 1: Yeah. And it's like a one, [sighs] like studio, you know? Doesn't even have a room.
+[00:29:13.1 - 00:29:13.5] Speaker 2: Yeah.
+[00:29:15.0 - 00:29:15.7] Speaker 2: Exactly.
+[00:29:19.4 - 00:29:21.6] Speaker 1: A studio and a, and a, and a bathroom.
+[00:29:21.5 - 00:29:22.8] Speaker 2: Oh, my God.
+[00:29:22.5 - 00:29:26.3] Speaker 1: That's it. Like, like a small thing, five thousand dollars, you know?
+[00:29:26.1 - 00:29:26.4] Speaker 2: Mm-hmm.
+[00:29:27.8 - 00:29:28.9] Speaker 1: Yeah. For...
+[00:29:27.8 - 00:29:28.1] Speaker 2: Wow.
+[00:29:30.5 - 00:29:31.2] Speaker 2: That's crazy.
+[00:29:31.1 - 00:29:37.3] Speaker 1: Yeah, it's true. That's true. That, and it's actually, this is the cheapest I could get. Like I couldn't find anything cheaper.
+[00:29:32.2 - 00:29:34.3] Speaker 2: I mean, you do have to consider that the World Cup is coming,
+[00:29:35.5 - 00:29:37.5] Speaker 2: but yeah. Mm-hmm.
+[00:29:38.2 - 00:29:39.8] Speaker 1: This is like where, yeah, you know.
+[00:29:40.8 - 00:29:46.2] Speaker 1: I don't know. But, but it's in Miami Beach, so I mean, it's, it's a nice location at least, right?
+[00:29:41.9 - 00:29:42.2] Speaker 2: Right.
+[00:29:46.4 - 00:29:46.8] Speaker 2: Yeah.
+[00:29:48.2 - 00:30:00.2] Speaker 1: But still it's really expensive, so I don't know why even go there, I mean. I actually have to like take my aunt because she has like this thing with, like she gets money from the Social Security, right?
+[00:29:51.1 - 00:29:51.3] Speaker 2: Right.
+[00:29:56.9 - 00:29:57.8] Speaker 2: I mean, yeah.
+[00:30:01.8 - 00:30:13.7] Speaker 1: But she has to like be there, like for... She, she cannot be out of the country for more than six months. Yeah, so I actually... Right. But then we spend all of the money just by going there one month, you know?
+[00:30:04.7 - 00:30:05.0] Speaker 2: Right.
+[00:30:09.4 - 00:30:10.5] Speaker 2: Yeah, a certain amount of time.
+[00:30:12.0 - 00:30:13.0] Speaker 2: Yeah, understood.
+[00:30:13.8 - 00:30:15.4] Speaker 1: She has to save up all the six months.
+[00:30:16.5 - 00:30:16.9] Speaker 1: Yeah.
+[00:30:18.2 - 00:30:29.3] Speaker 2: Right, just for being there. Yeah. [chuckles] Just to be there, I understand. [sniffs] I see.
+[00:30:18.9 - 00:30:24.8] Speaker 1: Yeah. 'Cause she says she's rather-- She's not gonna go to some ugly place. She likes to go to Miami and stuff, right? So...
+[00:30:26.8 - 00:30:35.0] Speaker 1: Yeah. We could go to some cheaper, I know, right? But she's like, "I'm not gonna be like a month and a half in some ugly place and live," you know?
+[00:30:29.4 - 00:30:29.8] Speaker 2: Okay.
+[00:30:31.3 - 00:30:31.5] Speaker 2: Well,
+[00:30:34.1 - 00:30:34.4] Speaker 2: right.
+[00:30:36.1 - 00:30:49.2] Speaker 1: S-so we kinda split it. Yeah. So I get like Miami for half the price, and she still gets her money from... She's, you know, she has to stay for... [clears throat] So that's what we're gonna do with this, you know?
+[00:30:38.8 - 00:30:45.2] Speaker 2: I understand that. Hey, preach, girl. [chuckles] Mm-hmm.
+[00:30:47.8 - 00:30:49.1] Speaker 2: Nice. Yeah.
+[00:30:49.4 - 00:30:50.7] Speaker 1: Mm-hmm. Yep.
+[00:30:51.1 - 00:31:01.8] Speaker 2: Hey, let me end the recording, and then we're gonna end the recording, and we're gonna let it load up, and then we're gonna start again. We usually like to end it at 30 minutes, 'cause other than that, after that it gets a little overwhelmed.
+[00:30:56.8 - 00:30:57.7] Speaker 1: Oh, okay.
+[00:30:58.8 - 00:31:00.3] Speaker 1: Just to keep track, right. Okay.
+[00:31:01.7 - 00:31:02.0] Speaker 1: Cool.
+[00:31:02.2 - 00:31:05.5] Speaker 2: So we'll end it now, and then we'll jump right on. So just push that
+[00:31:02.9 - 00:31:04.6] Speaker 1: Great. Okay. Mm-hmm.
+[00:31:06.0 - 00:31:08.7] Speaker 1: Yeah. Let's stop recording. Okay. Very fine.
+[00:31:06.5 - 00:31:08.6] Speaker 2: big, uh, white square.
+[00:31:12.1 - 00:31:12.5] Speaker 2: Okay
